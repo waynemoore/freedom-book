@@ -9,6 +9,7 @@ On a Mac:
 $ brew install pandoc
 $ cd /path/to/repo
 $ ./build.sh
+```
 
 # Releases
 See [releases](https://github.com/waynemoore/freedom-book/releases/latest) for a generated EPUB copy of the book
